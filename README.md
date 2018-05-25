@@ -1,5 +1,5 @@
 # Simple-Data-Pipeline
-This project will walk you through on creating a data pipeline for Big Data using Hadoop.  You will need to have basic knowledge in Linux, Scala, Spark, NoSQL.  This walk-through will be for 2 or more clusters project.  All computers that is used will have Ubuntu 16-04 OS installed.
+This project will walk you through on to set up and configure a node Hadoop Cluster installation and a data pipeline for Big Data on Ubuntu 16.04. You will need to have basic knowledge in Linux, Kafka, Scala, Spark, NoSQL. This walk-through will be for 2 or more clusters project so that you can quickly perform simple installation on the other nodes. 
 
 # Installing Ubuntu 16.04
 First, installing Ubuntu to:
@@ -16,6 +16,12 @@ Link to install Ubuntu 16.04
 https://www.ubuntu.com/download/alternative-downloads
 
 
+Once you already have been instales Ubuntu 16.04 The version requirer for the tools are: 
 
+Java 1.8.0_171
+Hadoop 2.7.6
+Zookeerper 3.4.10
+Kafka 1.0.0
+Spark 2.1
 
 
